@@ -1,3 +1,8 @@
+/*
+本文件是对VScode的C++环境进行调试
+time：2023-12-24
+*/
+
 #include <iostream>
 #include <vector>
 #include <queue>
